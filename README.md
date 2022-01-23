@@ -1,5 +1,9 @@
 # fetch-examples
 
+https://github.com/mdn/fetch-examples/
+
+https://developer.mozilla.org/en-US/docs/Web/API/Fetch_API/Using_Fetch
+
 A repository of Fetch examples. See [https://developer.mozilla.org/en-US/docs/Web/API/Fetch_API](https://developer.mozilla.org/en-US/docs/Web/API/Fetch_API) for the corresponding documentation.
 
 See below for links to the live versions of each example:
